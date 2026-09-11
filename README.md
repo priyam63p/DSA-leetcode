@@ -10,8 +10,5 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/priyam63p/DSA-leetcode/tree/master/0118-pascals-triangle) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0118-pascals-triangle](https://github.com/priyam63p/DSA-leetcode/tree/master/0118-pascals-triangle) |
+
 <!---LeetCode Topics End-->
